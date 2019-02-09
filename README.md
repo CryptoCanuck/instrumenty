@@ -1,4 +1,3 @@
-![instrumenty](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
 # instrumenty
 Script for installing Kali linux tools
 
@@ -27,7 +26,4 @@ Script for installing Kali linux tools
 # Warning
 Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
 
-# Continuing
 
-
-# instrumenty
